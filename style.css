@@ -1,0 +1,17 @@
+#timer {
+    font-size:200px;
+    margin:0 auto;
+    width:1000px;
+    background-color: rgb(135, 18, 88);
+  }
+  
+  #controls {
+    margin:0 auto;
+    width:600px;    
+  }
+  
+  #controls button {
+    font-size:60px;
+    font-style: italic;
+    background-color: rgb(30, 123, 123);
+  }
